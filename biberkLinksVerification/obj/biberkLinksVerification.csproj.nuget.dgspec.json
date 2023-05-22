@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noman\\source\\repos\\biberkLinksVerification\\biberkLinksVerification\\biberkLinksVerification.csproj": {}
+    "D:\\LinksVeification\\biberkLinksVerification\\biberkLinksVerification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noman\\source\\repos\\biberkLinksVerification\\biberkLinksVerification\\biberkLinksVerification.csproj": {
+    "D:\\LinksVeification\\biberkLinksVerification\\biberkLinksVerification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noman\\source\\repos\\biberkLinksVerification\\biberkLinksVerification\\biberkLinksVerification.csproj",
+        "projectUniqueName": "D:\\LinksVeification\\biberkLinksVerification\\biberkLinksVerification.csproj",
         "projectName": "biberkLinksVerification",
-        "projectPath": "C:\\Users\\Noman\\source\\repos\\biberkLinksVerification\\biberkLinksVerification\\biberkLinksVerification.csproj",
+        "projectPath": "D:\\LinksVeification\\biberkLinksVerification\\biberkLinksVerification.csproj",
         "packagesPath": "C:\\Users\\Noman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noman\\source\\repos\\biberkLinksVerification\\biberkLinksVerification\\obj\\",
+        "outputPath": "D:\\LinksVeification\\biberkLinksVerification\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
